@@ -12,6 +12,8 @@
 		D3EFAF291D22E8EF0099CD1F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3EFAF271D22E8EF0099CD1F /* Main.storyboard */; };
 		D3EFAF2B1D22E8EF0099CD1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3EFAF2A1D22E8EF0099CD1F /* Assets.xcassets */; };
 		D3EFAF2E1D22E8EF0099CD1F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3EFAF2C1D22E8EF0099CD1F /* LaunchScreen.storyboard */; };
+		D3EFAF3A1D2308140099CD1F /* corbyn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3EFAF391D2308140099CD1F /* corbyn.jpg */; };
+		D3EFAF3C1D23157D0099CD1F /* video-test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D3EFAF3B1D2314E40099CD1F /* video-test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		D3EFAF2A1D22E8EF0099CD1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3EFAF2D1D22E8EF0099CD1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D3EFAF2F1D22E8EF0099CD1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3EFAF391D2308140099CD1F /* corbyn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corbyn.jpg; sourceTree = "<group>"; };
+		D3EFAF3B1D2314E40099CD1F /* video-test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "video-test.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		D3EFAF221D22E8EF0099CD1F /* notification-demo */ = {
 			isa = PBXGroup;
 			children = (
+				D3EFAF3B1D2314E40099CD1F /* video-test.mp4 */,
+				D3EFAF391D2308140099CD1F /* corbyn.jpg */,
 				D3EFAF231D22E8EF0099CD1F /* AppDelegate.swift */,
 				D3EFAF251D22E8EF0099CD1F /* ViewController.swift */,
 				D3EFAF271D22E8EF0099CD1F /* Main.storyboard */,
@@ -123,8 +129,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3EFAF3C1D23157D0099CD1F /* video-test.mp4 in Resources */,
 				D3EFAF2E1D22E8EF0099CD1F /* LaunchScreen.storyboard in Resources */,
 				D3EFAF2B1D22E8EF0099CD1F /* Assets.xcassets in Resources */,
+				D3EFAF3A1D2308140099CD1F /* corbyn.jpg in Resources */,
 				D3EFAF291D22E8EF0099CD1F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
